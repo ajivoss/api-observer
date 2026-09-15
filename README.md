@@ -39,6 +39,19 @@ Credential fields are redacted on export.
 
 Other application data may still be present in exports and should be reviewed before sharing.
 
+# Documentation
+
+Detailed documentation is available in the docs folder.
+
+| Topic | Description |
+|---------|---------|
+| Architecture | docs/architecture.md |
+| Classification | docs/classification.md |
+| Scoring | docs/scoring.md |
+| Privacy | docs/privacy.md |
+| Security | SECURITY.md |
+| Changelog | CHANGELOG.md |
+
 ## License
 
 MIT License
