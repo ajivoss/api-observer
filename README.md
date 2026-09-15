@@ -45,12 +45,12 @@ Detailed documentation is available in the docs folder.
 
 | Topic | Description |
 |---------|---------|
-| Architecture | docs/architecture.md |
-| Classification | docs/classification.md |
-| Scoring | docs/scoring.md |
-| Privacy | docs/privacy.md |
-| Security | SECURITY.md |
-| Changelog | CHANGELOG.md |
+| Architecture | [docs/architecture.md](docs/architecture.md) |
+| Classification | [docs/classification.md](docs/classification.md) |
+| Scoring | [docs/scoring.md](docs/scoring.md) |
+| Privacy | [docs/privacy.md](docs/privacy.md) |
+| Security | [Security Policy](SECURITY.md) |
+| Changelog | [Changelog](CHANGELOG.md) |
 
 ## License
 
