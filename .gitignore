@@ -1,0 +1,19 @@
+# API Observer generated exports
+api-discovery*.json
+*.postman_collection.json
+
+# OpenAPI exports
+openapi*.json
+openapi*.yaml
+openapi*.yml
+
+# IDE files
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
