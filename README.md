@@ -13,6 +13,14 @@ The script passively observes authorized browser activity and can generate:
 
 API Observer is site-agnostic and can operate against any web application using browser fetch/XHR traffic.
 
+## Authorized Use Only
+
+API Observer is intended only for systems you own or have permission to analyze.
+
+Users are responsible for complying with all applicable laws, policies, contracts, and platform terms of service.
+
+The author is not responsible for misuse of the software.
+
 ## Features
 
 - Automatic endpoint discovery
